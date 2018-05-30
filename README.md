@@ -1,4 +1,4 @@
-## SETUP
+## SETUP :space_invader:
 1. Ensure to change the paths at otto_output.py and speech_to_text
 2. python otto.py
 
